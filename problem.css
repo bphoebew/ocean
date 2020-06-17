@@ -164,7 +164,12 @@ a:hover{
   width: 420px;
   height: 200px;
 }
+.color{
+  width: 150px;
+  height: 200px;
+}
 .flexSpace{
+  margin-top: 100px;
   display: flex;
   justify-content: space-around;
 }
