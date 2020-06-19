@@ -163,8 +163,34 @@ a:hover{
 .nasaPic{
   width: 420px;
   height: 200px;
+  -ms-transform: rotate(-10deg); /* IE 9 */
+transform: rotate(-10deg);
 }
 .color{
+  width: 150px;
+  height: 200px;
+  -ms-transform: rotate(10deg); /* IE 9 */
+transform: rotate(10deg);
+}
+.sciWeb{
+  margin-top: 50px;
+}
+.sciQuiz{
+  width: 230px;
+  height: 120px;
+  -ms-transform: rotate(10deg); /* IE 9 */
+  transform: rotate(10deg);
+}
+.ng{
+  margin-top: -50px;
+}
+.ngPic{
+  width: 300px;
+  height: 280px;
+  -ms-transform: rotate(10deg); /* IE 9 */
+  transform: rotate(10deg);
+}
+.climate{
   width: 150px;
   height: 200px;
 }
